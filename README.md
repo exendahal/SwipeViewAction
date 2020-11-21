@@ -12,9 +12,9 @@ Learn More: https://docs.microsoft.com/en-us/xamarin/xamarin-forms/
 
 ## Preview
 
-<img src="screenshots/1.png" width="250" height="450"> &nbsp;&nbsp;&nbsp; 
-<img src="screenshots/2.png" width="250" height="450"> &nbsp;&nbsp;&nbsp;
-<img src="screenshots/3.png" width="250" height="450"> <br>
+<img src="screenshot/1.png" width="250" height="450"> &nbsp;&nbsp;&nbsp; 
+<img src="screenshot/2.png" width="250" height="450"> &nbsp;&nbsp;&nbsp;
+<img src="screenshot/3.png" width="250" height="450"> <br>
 
 
 
